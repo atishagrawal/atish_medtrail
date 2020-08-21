@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="color_issue_count">#f44336</color>
+    <color name="color_issue_count_green">#2e7d32</color>
+    <color name="color_issue_count_orange">#ef6c00</color>
+    <color name="color_license">#283593</color>
+    <color name="color_textview_background">#eeeeee</color>
+
+
+</resources>
